@@ -1,0 +1,6 @@
+UTF8	CreateUTF8Encoding()	UTF-8
+Unicode	CreateUTF16Encoding(false)	UTF-16
+UnicodeBE	CreateUTF16Encoding(true)	UTF-16 Big Endian
+UTF32	CreateUTF32Encoding(false)	UTF-32
+UTF32BE	CreateUTF32Encoding(true)	UTF-32 Big Endian
+UTF7	CreateUTF7Encoding()	UTF-7
