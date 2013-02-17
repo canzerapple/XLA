@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XLApplication", "Win32Solution\XLApplication\XLApplication.vcxproj", "{C549602C-5C36-4114-A4F5-A3CFE752633D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibEncoding", "Win32Solution\LibEncoding\LibEncoding.vcxproj", "{F233A669-3418-4F4C-8EDC-35AA0A667B7C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrustCloud", "Win32Solution\TrustCloud\TrustCloud.vcxproj", "{C0839F8A-E04F-4E22-9FE9-D381E74989B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C549602C-5C36-4114-A4F5-A3CFE752633D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C549602C-5C36-4114-A4F5-A3CFE752633D}.Debug|Win32.Build.0 = Debug|Win32
+		{C549602C-5C36-4114-A4F5-A3CFE752633D}.Release|Win32.ActiveCfg = Release|Win32
+		{C549602C-5C36-4114-A4F5-A3CFE752633D}.Release|Win32.Build.0 = Release|Win32
+		{F233A669-3418-4F4C-8EDC-35AA0A667B7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F233A669-3418-4F4C-8EDC-35AA0A667B7C}.Debug|Win32.Build.0 = Debug|Win32
+		{F233A669-3418-4F4C-8EDC-35AA0A667B7C}.Release|Win32.ActiveCfg = Release|Win32
+		{F233A669-3418-4F4C-8EDC-35AA0A667B7C}.Release|Win32.Build.0 = Release|Win32
+		{C0839F8A-E04F-4E22-9FE9-D381E74989B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0839F8A-E04F-4E22-9FE9-D381E74989B6}.Debug|Win32.Build.0 = Debug|Win32
+		{C0839F8A-E04F-4E22-9FE9-D381E74989B6}.Release|Win32.ActiveCfg = Release|Win32
+		{C0839F8A-E04F-4E22-9FE9-D381E74989B6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
